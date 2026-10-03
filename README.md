@@ -2,13 +2,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0011-container-with-most-water](https://github.com/akash01082/75Days_LeetCode_Challenge/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/akash01082/75Days_LeetCode_Challenge/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/akash01082/75Days_LeetCode_Challenge/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/akash01082/75Days_LeetCode_Challenge/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/akash01082/75Days_LeetCode_Challenge/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/akash01082/75DaysLeetCodeChallenge/tree/main/0027-remove-element/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/akash01082/75Days_LeetCode_Challenge/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/akash01082/75Days_LeetCode_Challenge/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/akash01082/75Days_LeetCode_Challenge/tree/master/0036-valid-sudoku) |
@@ -48,8 +49,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/akash01082/75Days_LeetCode_Challenge/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2574-left-and-right-sum-differences](https://github.com/akash01082/75Days_LeetCode_Challenge/tree/master/2574-left-and-right-sum-differences) |
 ## Hash Table
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/akash01082/75Days_LeetCode_Challenge/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/akash01082/75Days_LeetCode_Challenge/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/akash01082/75Days_LeetCode_Challenge/tree/master/0049-group-anagrams) |
@@ -70,8 +71,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/akash01082/75Days_LeetCode_Challenge/tree/master/0904-fruit-into-baskets) |
 | [0997-find-the-town-judge](https://github.com/akash01082/75Days_LeetCode_Challenge/tree/master/0997-find-the-town-judge) |
 ## Sorting
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0015-3sum](https://github.com/akash01082/75Days_LeetCode_Challenge/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/akash01082/75Days_LeetCode_Challenge/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/akash01082/75Days_LeetCode_Challenge/tree/master/0049-group-anagrams) |
@@ -83,8 +84,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/akash01082/75Days_LeetCode_Challenge/tree/master/0347-top-k-frequent-elements) |
 | [0977-squares-of-a-sorted-array](https://github.com/akash01082/75Days_LeetCode_Challenge/tree/master/0977-squares-of-a-sorted-array) |
 ## String
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/akash01082/75Days_LeetCode_Challenge/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/akash01082/75Days_LeetCode_Challenge/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/akash01082/75Days_LeetCode_Challenge/tree/master/0020-valid-parentheses) |
@@ -99,47 +100,48 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/akash01082/75Days_LeetCode_Challenge/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/akash01082/75Days_LeetCode_Challenge/tree/master/0567-permutation-in-string) |
 ## Divide and Conquer
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0169-majority-element](https://github.com/akash01082/75Days_LeetCode_Challenge/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/akash01082/75Days_LeetCode_Challenge/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/akash01082/75Days_LeetCode_Challenge/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/akash01082/75Days_LeetCode_Challenge/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/akash01082/75Days_LeetCode_Challenge/tree/master/0347-top-k-frequent-elements) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/akash01082/75Days_LeetCode_Challenge/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1046-last-stone-weight](https://github.com/akash01082/75Days_LeetCode_Challenge/tree/master/1046-last-stone-weight) |
 ## Bucket Sort
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/akash01082/75Days_LeetCode_Challenge/tree/master/0347-top-k-frequent-elements) |
 ## Counting
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0169-majority-element](https://github.com/akash01082/75Days_LeetCode_Challenge/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/akash01082/75Days_LeetCode_Challenge/tree/master/0347-top-k-frequent-elements) |
 ## Quickselect
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/akash01082/75Days_LeetCode_Challenge/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/akash01082/75Days_LeetCode_Challenge/tree/master/0347-top-k-frequent-elements) |
 ## Prefix Sum
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/akash01082/75Days_LeetCode_Challenge/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/akash01082/75Days_LeetCode_Challenge/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/akash01082/75Days_LeetCode_Challenge/tree/master/0560-subarray-sum-equals-k) |
 | [2574-left-and-right-sum-differences](https://github.com/akash01082/75Days_LeetCode_Challenge/tree/master/2574-left-and-right-sum-differences) |
 ## Two Pointers
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0011-container-with-most-water](https://github.com/akash01082/75Days_LeetCode_Challenge/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/akash01082/75Days_LeetCode_Challenge/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/akash01082/75Days_LeetCode_Challenge/tree/master/0016-3sum-closest) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/akash01082/75Days_LeetCode_Challenge/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/akash01082/75Days_LeetCode_Challenge/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/akash01082/75DaysLeetCodeChallenge/tree/main/0027-remove-element/) | Easy |
 | [0075-sort-colors](https://github.com/akash01082/75Days_LeetCode_Challenge/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/akash01082/75Days_LeetCode_Challenge/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/akash01082/75Days_LeetCode_Challenge/tree/master/0141-linked-list-cycle) |
@@ -152,8 +154,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/akash01082/75Days_LeetCode_Challenge/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/akash01082/75Days_LeetCode_Challenge/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/akash01082/75Days_LeetCode_Challenge/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/akash01082/75Days_LeetCode_Challenge/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/akash01082/75Days_LeetCode_Challenge/tree/master/0074-search-a-2d-matrix) |
@@ -165,16 +167,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/akash01082/75Days_LeetCode_Challenge/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/akash01082/75Days_LeetCode_Challenge/tree/master/0875-koko-eating-bananas) |
 ## Greedy
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0011-container-with-most-water](https://github.com/akash01082/75Days_LeetCode_Challenge/tree/master/0011-container-with-most-water) |
 ## Dynamic Programming
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/akash01082/75Days_LeetCode_Challenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Sliding Window
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/akash01082/75Days_LeetCode_Challenge/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/akash01082/75Days_LeetCode_Challenge/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/akash01082/75Days_LeetCode_Challenge/tree/master/0424-longest-repeating-character-replacement) |
@@ -182,8 +184,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/akash01082/75Days_LeetCode_Challenge/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/akash01082/75Days_LeetCode_Challenge/tree/master/0904-fruit-into-baskets) |
 ## Stack
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0020-valid-parentheses](https://github.com/akash01082/75Days_LeetCode_Challenge/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/akash01082/75Days_LeetCode_Challenge/tree/master/0084-largest-rectangle-in-histogram) |
 | [0143-reorder-list](https://github.com/akash01082/75Days_LeetCode_Challenge/tree/master/0143-reorder-list) |
@@ -195,31 +197,31 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/akash01082/75Days_LeetCode_Challenge/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/akash01082/75Days_LeetCode_Challenge/tree/master/0739-daily-temperatures) |
 ## Design
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0155-min-stack](https://github.com/akash01082/75Days_LeetCode_Challenge/tree/master/0155-min-stack) |
 | [0208-implement-trie-prefix-tree](https://github.com/akash01082/75Days_LeetCode_Challenge/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/akash01082/75Days_LeetCode_Challenge/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0232-implement-queue-using-stacks](https://github.com/akash01082/75Days_LeetCode_Challenge/tree/master/0232-implement-queue-using-stacks) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/akash01082/75Days_LeetCode_Challenge/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Queue
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/akash01082/75Days_LeetCode_Challenge/tree/master/0232-implement-queue-using-stacks) |
 ## Math
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0002-add-two-numbers](https://github.com/akash01082/75Days_LeetCode_Challenge/tree/master/0002-add-two-numbers) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/akash01082/75Days_LeetCode_Challenge/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Monotonic Stack
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/akash01082/75Days_LeetCode_Challenge/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/akash01082/75Days_LeetCode_Challenge/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/akash01082/75Days_LeetCode_Challenge/tree/master/0739-daily-temperatures) |
 ## Matrix
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0036-valid-sudoku](https://github.com/akash01082/75Days_LeetCode_Challenge/tree/master/0036-valid-sudoku) |
 | [0074-search-a-2d-matrix](https://github.com/akash01082/75Days_LeetCode_Challenge/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/akash01082/75Days_LeetCode_Challenge/tree/master/0200-number-of-islands) |
@@ -227,8 +229,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/akash01082/75Days_LeetCode_Challenge/tree/master/0417-pacific-atlantic-water-flow) |
 | [0733-flood-fill](https://github.com/akash01082/75Days_LeetCode_Challenge/tree/master/0733-flood-fill) |
 ## Linked List
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0002-add-two-numbers](https://github.com/akash01082/75Days_LeetCode_Challenge/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/akash01082/75Days_LeetCode_Challenge/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/akash01082/75Days_LeetCode_Challenge/tree/master/0021-merge-two-sorted-lists) |
@@ -239,16 +241,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/akash01082/75Days_LeetCode_Challenge/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/akash01082/75Days_LeetCode_Challenge/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0002-add-two-numbers](https://github.com/akash01082/75Days_LeetCode_Challenge/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/akash01082/75Days_LeetCode_Challenge/tree/master/0021-merge-two-sorted-lists) |
 | [0143-reorder-list](https://github.com/akash01082/75Days_LeetCode_Challenge/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/akash01082/75Days_LeetCode_Challenge/tree/master/0206-reverse-linked-list) |
 | [0394-decode-string](https://github.com/akash01082/75Days_LeetCode_Challenge/tree/master/0394-decode-string) |
 ## Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/akash01082/75Days_LeetCode_Challenge/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/akash01082/75Days_LeetCode_Challenge/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/akash01082/75Days_LeetCode_Challenge/tree/master/0102-binary-tree-level-order-traversal) |
@@ -264,8 +266,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/akash01082/75Days_LeetCode_Challenge/tree/master/0572-subtree-of-another-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/akash01082/75Days_LeetCode_Challenge/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Depth-First Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/akash01082/75Days_LeetCode_Challenge/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/akash01082/75Days_LeetCode_Challenge/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/akash01082/75Days_LeetCode_Challenge/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -284,8 +286,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/akash01082/75Days_LeetCode_Challenge/tree/master/0572-subtree-of-another-tree) |
 | [0733-flood-fill](https://github.com/akash01082/75Days_LeetCode_Challenge/tree/master/0733-flood-fill) |
 ## Breadth-First Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0100-same-tree](https://github.com/akash01082/75Days_LeetCode_Challenge/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/akash01082/75Days_LeetCode_Challenge/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/akash01082/75Days_LeetCode_Challenge/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -297,8 +299,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/akash01082/75Days_LeetCode_Challenge/tree/master/0417-pacific-atlantic-water-flow) |
 | [0733-flood-fill](https://github.com/akash01082/75Days_LeetCode_Challenge/tree/master/0733-flood-fill) |
 ## Binary Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/akash01082/75Days_LeetCode_Challenge/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/akash01082/75Days_LeetCode_Challenge/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/akash01082/75Days_LeetCode_Challenge/tree/master/0102-binary-tree-level-order-traversal) |
@@ -314,51 +316,51 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/akash01082/75Days_LeetCode_Challenge/tree/master/0572-subtree-of-another-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/akash01082/75Days_LeetCode_Challenge/tree/master/0703-kth-largest-element-in-a-stream) |
 ## String Matching
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0572-subtree-of-another-tree](https://github.com/akash01082/75Days_LeetCode_Challenge/tree/master/0572-subtree-of-another-tree) |
 ## Hash Function
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0572-subtree-of-another-tree](https://github.com/akash01082/75Days_LeetCode_Challenge/tree/master/0572-subtree-of-another-tree) |
 ## Binary Search Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/akash01082/75Days_LeetCode_Challenge/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/akash01082/75Days_LeetCode_Challenge/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/akash01082/75Days_LeetCode_Challenge/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/akash01082/75Days_LeetCode_Challenge/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Trie
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/akash01082/75Days_LeetCode_Challenge/tree/master/0014-longest-common-prefix) |
 | [0208-implement-trie-prefix-tree](https://github.com/akash01082/75Days_LeetCode_Challenge/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/akash01082/75Days_LeetCode_Challenge/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/akash01082/75Days_LeetCode_Challenge/tree/master/0212-word-search-ii) |
 ## Bit Manipulation
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0136-single-number](https://github.com/akash01082/75Days_LeetCode_Challenge/tree/master/0136-single-number) |
 ## Union-Find
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/akash01082/75Days_LeetCode_Challenge/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/akash01082/75Days_LeetCode_Challenge/tree/master/0200-number-of-islands) |
 ## Interactive
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0278-first-bad-version](https://github.com/akash01082/75Days_LeetCode_Challenge/tree/master/0278-first-bad-version) |
 ## Backtracking
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0212-word-search-ii](https://github.com/akash01082/75Days_LeetCode_Challenge/tree/master/0212-word-search-ii) |
 ## Data Stream
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/akash01082/75Days_LeetCode_Challenge/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Graph Theory
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0133-clone-graph](https://github.com/akash01082/75Days_LeetCode_Challenge/tree/master/0133-clone-graph) |
 | [0997-find-the-town-judge](https://github.com/akash01082/75Days_LeetCode_Challenge/tree/master/0997-find-the-town-judge) |
 <!---LeetCode Topics End-->
