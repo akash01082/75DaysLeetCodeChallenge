@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/akash01082/75Days_LeetCode_Challenge/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/akash01082/75Days_LeetCode_Challenge/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/akash01082/75Days_LeetCode_Challenge/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/akash01082/75DaysLeetCodeChallenge/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/akash01082/75Days_LeetCode_Challenge/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/akash01082/75Days_LeetCode_Challenge/tree/master/0347-top-k-frequent-elements) |
 | [0417-pacific-atlantic-water-flow](https://github.com/akash01082/75Days_LeetCode_Challenge/tree/master/0417-pacific-atlantic-water-flow) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/akash01082/75Days_LeetCode_Challenge/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/akash01082/75Days_LeetCode_Challenge/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/akash01082/75Days_LeetCode_Challenge/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/akash01082/75DaysLeetCodeChallenge/tree/main/0268-missing-number/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/akash01082/75Days_LeetCode_Challenge/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/akash01082/75Days_LeetCode_Challenge/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/akash01082/75Days_LeetCode_Challenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/akash01082/75Days_LeetCode_Challenge/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/akash01082/75Days_LeetCode_Challenge/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/akash01082/75Days_LeetCode_Challenge/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/akash01082/75DaysLeetCodeChallenge/tree/main/0268-missing-number/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/akash01082/75Days_LeetCode_Challenge/tree/master/0347-top-k-frequent-elements) |
 | [0977-squares-of-a-sorted-array](https://github.com/akash01082/75Days_LeetCode_Challenge/tree/master/0977-squares-of-a-sorted-array) |
 ## String
@@ -163,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/akash01082/75Days_LeetCode_Challenge/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/akash01082/75Days_LeetCode_Challenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/akash01082/75Days_LeetCode_Challenge/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/akash01082/75DaysLeetCodeChallenge/tree/main/0268-missing-number/) | Easy |
 | [0278-first-bad-version](https://github.com/akash01082/75Days_LeetCode_Challenge/tree/master/0278-first-bad-version) |
 | [0704-binary-search](https://github.com/akash01082/75Days_LeetCode_Challenge/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/akash01082/75Days_LeetCode_Challenge/tree/master/0875-koko-eating-bananas) |
@@ -213,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/akash01082/75Days_LeetCode_Challenge/tree/master/0002-add-two-numbers) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/akash01082/75Days_LeetCode_Challenge/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0268-missing-number](https://github.com/akash01082/75DaysLeetCodeChallenge/tree/main/0268-missing-number/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -341,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0136-single-number](https://github.com/akash01082/75Days_LeetCode_Challenge/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/akash01082/75DaysLeetCodeChallenge/tree/main/0268-missing-number/) | Easy |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
