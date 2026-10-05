@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/akash01082/75Days_LeetCode_Challenge/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/akash01082/75Days_LeetCode_Challenge/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/akash01082/75Days_LeetCode_Challenge/tree/master/0567-permutation-in-string) |
+| [0796-rotate-string](https://github.com/akash01082/75DaysLeetCodeChallenge/tree/main/0796-rotate-string/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/akash01082/75DaysLeetCodeChallenge/tree/main/1903-largest-odd-number-in-string/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -327,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0572-subtree-of-another-tree](https://github.com/akash01082/75Days_LeetCode_Challenge/tree/master/0572-subtree-of-another-tree) |
+| [0796-rotate-string](https://github.com/akash01082/75DaysLeetCodeChallenge/tree/main/0796-rotate-string/) | Easy |
 ## Hash Function
 | Problem Name | Difficulty |
 | ------- | ------- |
