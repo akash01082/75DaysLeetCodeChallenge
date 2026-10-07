@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/akash01082/75Days_LeetCode_Challenge/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/akash01082/75Days_LeetCode_Challenge/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/akash01082/75Days_LeetCode_Challenge/tree/master/0020-valid-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/akash01082/75DaysLeetCodeChallenge/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0049-group-anagrams](https://github.com/akash01082/75Days_LeetCode_Challenge/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/akash01082/75Days_LeetCode_Challenge/tree/master/0125-valid-palindrome) |
 | [0208-implement-trie-prefix-tree](https://github.com/akash01082/75Days_LeetCode_Challenge/tree/master/0208-implement-trie-prefix-tree) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/akash01082/75Days_LeetCode_Challenge/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/akash01082/75Days_LeetCode_Challenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/akash01082/75DaysLeetCodeChallenge/tree/main/0027-remove-element/) | Easy |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/akash01082/75DaysLeetCodeChallenge/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0075-sort-colors](https://github.com/akash01082/75Days_LeetCode_Challenge/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/akash01082/75Days_LeetCode_Challenge/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/akash01082/75Days_LeetCode_Challenge/tree/master/0141-linked-list-cycle) |
@@ -332,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/akash01082/75DaysLeetCodeChallenge/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/akash01082/75Days_LeetCode_Challenge/tree/master/0572-subtree-of-another-tree) |
 | [0796-rotate-string](https://github.com/akash01082/75DaysLeetCodeChallenge/tree/main/0796-rotate-string/) | Easy |
 ## Hash Function
@@ -379,4 +382,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0133-clone-graph](https://github.com/akash01082/75Days_LeetCode_Challenge/tree/master/0133-clone-graph) |
 | [0997-find-the-town-judge](https://github.com/akash01082/75Days_LeetCode_Challenge/tree/master/0997-find-the-town-judge) |
+## Z Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/akash01082/75DaysLeetCodeChallenge/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## Knuth–Morris–Pratt Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/akash01082/75DaysLeetCodeChallenge/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## Boyer–Moore String-Search Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/akash01082/75DaysLeetCodeChallenge/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 <!---LeetCode Topics End-->
