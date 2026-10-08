@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/akash01082/75Days_LeetCode_Challenge/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/akash01082/75DaysLeetCodeChallenge/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0049-group-anagrams](https://github.com/akash01082/75Days_LeetCode_Challenge/tree/master/0049-group-anagrams) |
+| [0058-length-of-last-word](https://github.com/akash01082/75DaysLeetCodeChallenge/tree/main/0058-length-of-last-word/) | Easy |
 | [0125-valid-palindrome](https://github.com/akash01082/75Days_LeetCode_Challenge/tree/master/0125-valid-palindrome) |
 | [0208-implement-trie-prefix-tree](https://github.com/akash01082/75Days_LeetCode_Challenge/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/akash01082/75Days_LeetCode_Challenge/tree/master/0211-design-add-and-search-words-data-structure) |
