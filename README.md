@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/akash01082/75Days_LeetCode_Challenge/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/akash01082/75Days_LeetCode_Challenge/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/akash01082/75Days_LeetCode_Challenge/tree/master/0643-maximum-average-subarray-i) |
+| [0645-set-mismatch](https://github.com/akash01082/75DaysLeetCodeChallenge/tree/main/0645-set-mismatch/) | Easy |
 | [0704-binary-search](https://github.com/akash01082/75Days_LeetCode_Challenge/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/akash01082/75Days_LeetCode_Challenge/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/akash01082/75Days_LeetCode_Challenge/tree/master/0739-daily-temperatures) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/akash01082/75Days_LeetCode_Challenge/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/akash01082/75Days_LeetCode_Challenge/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/akash01082/75Days_LeetCode_Challenge/tree/master/0567-permutation-in-string) |
+| [0645-set-mismatch](https://github.com/akash01082/75DaysLeetCodeChallenge/tree/main/0645-set-mismatch/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/akash01082/75Days_LeetCode_Challenge/tree/master/0904-fruit-into-baskets) |
 | [0997-find-the-town-judge](https://github.com/akash01082/75Days_LeetCode_Challenge/tree/master/0997-find-the-town-judge) |
 ## Sorting
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/akash01082/75DaysLeetCodeChallenge/tree/main/0268-missing-number/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/akash01082/75Days_LeetCode_Challenge/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/akash01082/75DaysLeetCodeChallenge/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0645-set-mismatch](https://github.com/akash01082/75DaysLeetCodeChallenge/tree/main/0645-set-mismatch/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/akash01082/75Days_LeetCode_Challenge/tree/master/0977-squares-of-a-sorted-array) |
 ## String
 | Problem Name | Difficulty |
@@ -365,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0136-single-number](https://github.com/akash01082/75Days_LeetCode_Challenge/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/akash01082/75DaysLeetCodeChallenge/tree/main/0268-missing-number/) | Easy |
+| [0645-set-mismatch](https://github.com/akash01082/75DaysLeetCodeChallenge/tree/main/0645-set-mismatch/) | Easy |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
