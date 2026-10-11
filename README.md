@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/akash01082/75Days_LeetCode_Challenge/tree/master/1046-last-stone-weight) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/akash01082/75Days_LeetCode_Challenge/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2574-left-and-right-sum-differences](https://github.com/akash01082/75Days_LeetCode_Challenge/tree/master/2574-left-and-right-sum-differences) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/akash01082/75DaysLeetCodeChallenge/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -403,4 +404,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/akash01082/75DaysLeetCodeChallenge/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/akash01082/75DaysLeetCodeChallenge/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 <!---LeetCode Topics End-->
