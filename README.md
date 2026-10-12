@@ -236,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/akash01082/75Days_LeetCode_Challenge/tree/master/0002-add-two-numbers) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/akash01082/75Days_LeetCode_Challenge/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0258-add-digits](https://github.com/akash01082/75DaysLeetCodeChallenge/tree/main/0258-add-digits/) | Easy |
 | [0268-missing-number](https://github.com/akash01082/75DaysLeetCodeChallenge/tree/main/0268-missing-number/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/akash01082/75DaysLeetCodeChallenge/tree/main/1903-largest-odd-number-in-string/) | Easy |
 ## Monotonic Stack
@@ -408,4 +409,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/akash01082/75DaysLeetCodeChallenge/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0258-add-digits](https://github.com/akash01082/75DaysLeetCodeChallenge/tree/main/0258-add-digits/) | Easy |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0258-add-digits](https://github.com/akash01082/75DaysLeetCodeChallenge/tree/main/0258-add-digits/) | Easy |
 <!---LeetCode Topics End-->
